@@ -1,12 +1,11 @@
-### Yeongwoo, Song (@ywssong)
+### Yeongwoo, Song (@ywssng)
 
 Hi there 👋
 
-### 🔍  Main Interests
+### 🔍 Main Interests
 - 
-### 🏫  Education
-- 
-### 🧑‍💻  Skills & Languages
+
+### 🧑‍💻 Skills & Languages
 - 
 <!--
 **ywssng/ywssng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
