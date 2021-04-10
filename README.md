@@ -1,6 +1,6 @@
 ### Yeongwoo, Song (@ywssng)
 
-[personal page (under construction for now)](ywssng.github.io)
+[personal page (under construction for now)](https://ywssng.github.io/)
 
 Hi there 👋
 
