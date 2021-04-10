@@ -1,4 +1,4 @@
-### Yeongwoo, Song (@ywssng)
+### Yeongwoo, Song ([@ywssng](https://github.com/ywssng))
 
 [personal page (under construction for now)](https://ywssng.github.io/)
 
