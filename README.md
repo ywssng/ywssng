@@ -1,15 +1,15 @@
 ### Yeongwoo, Song ([@ywssng](https://github.com/ywssng))
 
-[personal page (under construction for now)](https://ywssng.github.io/)
+[my homepage](https://ywssng.github.io/)
 
 Hi there 👋
 
 ### 🔍 Main Interests
 - 
 
-### 🧑‍💻 Skills & Languages
-- 
 <!--
+### 🧑‍💻 Skills & Languages
+
 **ywssng/ywssng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
